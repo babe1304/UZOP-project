@@ -1,7 +1,6 @@
 import requests
 import json
 import pandas as pd
-import re
 
 # BPI Web API
 # http://site.api.espn.com/apis/fitt/v3/sports/basketball/mens-college-basketball/powerindex?lang=en&region=us&season={year}&sort=bpi.bpi%3Adesc&groups=50&limit=50&page={page}
