@@ -1,0 +1,2 @@
+Link za prezentaciju:
+https://ferhr-my.sharepoint.com/:v:/g/personal/lh53470_fer_hr/EQJDMQieykpFrYim8eepxPYBNT_xBp6mzc4n08pDJWTBtA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xJZIdY
